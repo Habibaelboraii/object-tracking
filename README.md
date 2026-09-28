@@ -4,8 +4,7 @@ A simple Streamlit application that detects moving objects in video using OpenCV
 
 ## Google Drive Link
 
-**Project or demo files:** Add your Google Drive sharing link here. Set access to **Anyone with the link** if you want others to be able to open it.
-
+**Project or demo files:** [Add your Google Drive sharing link here](https://drive.google.com/file/d/1eMhQT5Vilk0mjy-QmaysiV3xKg0YxMo5/view?usp=sharing).
 ## Requirements
 
 - Python 3
